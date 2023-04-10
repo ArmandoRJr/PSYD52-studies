@@ -4,6 +4,7 @@
 - [x] Reading: Rogers, T. T. (2009). Connectionist Models. In: Squire, L. R. [Ed.], Encyclopedia of Neuroscience, Volume 3, pp. 75-82. Oxford: Academic Press.
 - [x] Reading: Bengio, Y. (2016). Machines Who Learn. Scientific American, June 2016, pp. 46-51.
 - [x] Video: 3BLUE1BROWN: But what is a neural network? Deep Learning, Chapter 1 (19mins)
+
 Completed April 8th, 2023. 
 
 ## Personal Thoughts
