@@ -6,6 +6,7 @@
 - [x] Video: NNFS Video 2: Coding a Layer (15 mins)
 - [x] Reading: NNFS Book Chpt 1: Introducing Neural Networks
 - [x] Reading: NNFS Book Chpt 2: Coding our First Neurons
+
 Completed April 9th, 2023. 
 
 ## Personal Thoughts
